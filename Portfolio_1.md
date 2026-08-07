@@ -14,9 +14,11 @@ This particular artefact taught me that even the best process will work poorly w
 
 ## Process Mining as a Process Analysis Technique
 
-Process governance represents the framework, which is needed to guide and manage BPM process activities. This means that process governance determines the responsibilities, decision-making process, standards, and performance measurements in order to align the processes with organizational goals. Governance is important for cross-functional processes, where different departments are involved and responsibilities are not clearly defined. The good BPM governance ensures the alignment of organizational objectives, roles and responsibilities as well as accountability and improvement (Correa, Vilela & Peixoto, 2025, pp. 851-852).
+Framework for the Manufacturing Process Analysis using Process Mining: Case Study of Fully Automated Factory Applications by Lee, Shin and Lee
 
-This particular artefact taught me that even the best process will work poorly without clearly established ownership. In other words, the paper shows my Week 2 learning through the relationship between governance, roles, responsibilities, and monitoring. This is valuable evidence for my BPM knowledge, because now I understand that effective process improvement cannot happen without people, accountability and responsibility.
+Process mining is the application of data analysis techniques to explore and understand the nature of business processes. The information system event logs are used for process flows reconstruction and time resource analysis. Such an approach allows finding out bottlenecks and workload issues, as well as identifying discrepancies between planned and current processes. Process mining includes process discovery, analysis and improvement which allows process optimisation and its performance enhancement (Lee, Shin & Lee, 2025, pp. 5642–5645).
+
+This artefact shows me that procedures recorded in the documentation may not reflect the reality. The research illustrates my learning experience because the real data about process may uncover inefficiencies and delays. It is meaningful evidence of my knowledge about BPM because I can prove the importance of gathering reliable information before suggesting any improvements.
 
 ## Root Cause Analysis for Business Process Improvement
 
