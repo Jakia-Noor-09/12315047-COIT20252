@@ -30,12 +30,15 @@ The NIST Cybersecurity Framework offers a path for managing cyber risk. CSF 2.0 
 I learned that cybersecurity is not about stopping attacks. Organisations also need to be ready to spot, handle and fix incidents. This idea fits well with the university data‑breach example in Tutorial 8.8. The risk‑assessment steps, in Week 9. This artefact shows that I have understood that cybersecurity is a BPM duty that includes governance controls, monitoring, response and ongoing improvement.
 
 **Reflection and Conclusion**
+
 Through this e-portfolio I gained an understanding of how automation connects to cybersecurity in business process management. I learned that robotic process automation or RPA can boost efficiency—especially when the right tasks are chosen.. Automation alone is not enough. It needs governance, proper training and solid security measures to work well. The CIA Triad and the NIST Cybersecurity Framework helped me see that protecting any process means more than stopping threats. It also includes preventing risks monitoring for threats responding when something goes wrong and recovering quickly. I now see that digital process improvement is not, about speed or cost savings. It’s about balancing efficiency with attention to risk and security.
 
 **AI Use Statement**
+
 I used generative AI during the planning research and initial idea-development stages of this e-portfolio. I used it to organise the selected topics and identify possible recent academic sources. I checked the original sources and compared the information with the Week 7 to Week 10 unit materials. I then reviewed and refined the final reflections based on my understanding of Robotic Process Automation and Process Cybersecurity.
 
 **References**
+
 Daoud, S & Anaya, L 2025, ‘Implementation of robotic process automation in Jordanian banking sector: benefits and challenges’, Procedia Computer Science, vol. 263. DOI: 10.1016/j.procs.2025.07.057. ScienceDirect
 Ge, Y, Xia, K, Asif, M, Ersoy, A & Shahzad, MF 2025, ‘Critical success factors for implementing robotic process automation in the hotel industry’, Scientific Reports, vol. 15, article 26909. DOI: 10.1038/s41598-025-11757-6. Nature
 Raptaki, M, Stergiopoulos, G & Gritzalis, D 2025, ‘Automated cybersecurity impact propagation across business processes using process mining techniques’, International Journal of Information Security, vol. 24, article 129. DOI: 10.1007/s10207-025-01040-0. Springer
