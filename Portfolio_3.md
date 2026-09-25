@@ -39,10 +39,12 @@ I used generative AI during the planning research and initial idea-development s
 
 **References**
 
-Daoud, S & Anaya, L 2025, ‘Implementation of robotic process automation in Jordanian banking sector: benefits and challenges’, Procedia Computer Science, vol. 263. DOI: 10.1016/j.procs.2025.07.057. ScienceDirect
-Ge, Y, Xia, K, Asif, M, Ersoy, A & Shahzad, MF 2025, ‘Critical success factors for implementing robotic process automation in the hotel industry’, Scientific Reports, vol. 15, article 26909. DOI: 10.1038/s41598-025-11757-6. Nature
-Raptaki, M, Stergiopoulos, G & Gritzalis, D 2025, ‘Automated cybersecurity impact propagation across business processes using process mining techniques’, International Journal of Information Security, vol. 24, article 129. DOI: 10.1007/s10207-025-01040-0. Springer
-Zakharova, YA & Partyka, AI 2025, ‘The evolution of cyber risk management through the prism of the NIST Cybersecurity Fram
+Daoud, S & Anaya, L 2025, ‘Implementation of robotic process automation in Jordanian banking sector: benefits and challenges’, Procedia Computer Science, vol. 263, pp. 471–480, DOI: 10.1016/j.procs.2025.07.057. 
 
+Ge, Y, Xia, K, Asif, M, Ersoy, A & Shahzad, MF 2025, ‘Critical success factors for implementing robotic process automation in the hotel industry’, Scientific Reports, vol. 15, article 26909, DOI: 10.1038/s41598-025-11757-6. 
+
+Raptaki, M, Stergiopoulos, G & Gritzalis, D 2025, ‘Automated cybersecurity impact propagation across business processes using process mining techniques’, International Journal of Information Security, vol. 24, article 129, DOI: 10.1007/s10207-025-01040-0. 
+
+Zakharova, Y & Partyka, A 2025, ‘The evolution of cyber risk management through the prism of the NIST Cybersecurity Framework’, Cybersecurity: Education, Science, Technique, vol. 2, no. 30, pp. 333–347, DOI: 10.28925/2663-4023.2025.30.980. 
 
 
