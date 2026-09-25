@@ -31,7 +31,7 @@ I learned that cybersecurity is not about stopping attacks. Organisations also n
 
 **Reflection and Conclusion**
 
-Through this e-portfolio I gained an understanding of how automation connects to cybersecurity in business process management. I learned that robotic process automation or RPA can boost efficiency—especially when the right tasks are chosen.. Automation alone is not enough. It needs governance, proper training and solid security measures to work well. The CIA Triad and the NIST Cybersecurity Framework helped me see that protecting any process means more than stopping threats. It also includes preventing risks monitoring for threats responding when something goes wrong and recovering quickly. I now see that digital process improvement is not, about speed or cost savings. It’s about balancing efficiency with attention to risk and security.
+Through this e-portfolio I gained an understanding of how automation connects to cybersecurity in business process management. I learned that robotic process automation or RPA can boost efficiency, especially when the right tasks are chosen. Automation alone is not enough. It needs governance, proper training and solid security measures to work well. The CIA Triad and the NIST Cybersecurity Framework helped me see that protecting any process means more than stopping threats. It also includes preventing risks monitoring for threats responding when something goes wrong and recovering quickly. I now see that digital process improvement is not, about speed or cost savings. It’s about balancing efficiency with attention to risk and security.
 
 **AI Use Statement**
 
